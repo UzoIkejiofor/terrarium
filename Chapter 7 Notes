@@ -1,5 +1,0 @@
-let nonprofit = "Launchcode";
-
-console.log(nonprofit);
-nonprofit[6] = "C";
-console.log(nonprofit);
